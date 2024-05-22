@@ -1,2 +1,4 @@
 # ExposureBox
-High Precision Exposure box
+ PCB Prototyping Tool
+
+![](Photos/Exposure%20Box%202-1.jpg)
